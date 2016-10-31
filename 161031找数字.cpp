@@ -28,7 +28,7 @@ int main(){
 	cout<<endl;
 
 }
-
+//判断是否满足是六位数且每位数不同
 bool isOK(int num){
 	int arr[6];
 	char ch[6];
@@ -51,7 +51,7 @@ bool isOK(int num){
 
 	return true;
 }
-
+//判断两个数的组成数字是否相同
 bool isSame(int num1,int num2){
 	char ch1[7],ch2[7];
 	int arr1[6],arr2[6];
