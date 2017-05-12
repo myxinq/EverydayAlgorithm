@@ -10,5 +10,5 @@
 
     QQ 582752141
     E-mai:582752141@qq.com
-    www.dev01.cn (暂停使用)
+    www.furty.cn
 
